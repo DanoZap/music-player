@@ -211,3 +211,7 @@ i {
 ul li .row p {
     opacity: .9;
 }
+ul li.playing {
+    color: var(--violet);
+    pointer-events: none;
+}
